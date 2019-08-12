@@ -3,6 +3,11 @@
 # Penn-Oo-Kau-Tsai
 澎湖縣國中小鄉土語言教材資源網-鄉土語言閩南語教材
 
+課文本文著作權為澎湖縣政府所有。
+
+此處轉換格式、重新編排的編輯著作權（如果有的話）由 Tshuà Bûn-lī 以 CC0 釋出。
+
+
 # Development
 參考 tsuán_swf_mp3.bash
 共 `.swf` pê--落-來
